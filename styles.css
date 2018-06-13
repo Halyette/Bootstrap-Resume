@@ -1,0 +1,30 @@
+body {
+    margin-left: 15em;
+    margin-right: 15em;
+    
+}
+
+.jumbotron {
+    background-color: rgb(73, 73, 202);
+    color: white; 
+    margin-top: 2em;
+}
+
+.card-deck {
+    margin-top: 2em;
+}
+
+img {
+    height: 7em;
+}
+
+.row {
+    margin-top: 2em;
+}
+
+.jumbotron-jumbotron-fluid {
+    background-color: #e3e6ea;
+    margin-top: 2em;
+    text-align: center;
+    padding: 3em; 
+}
